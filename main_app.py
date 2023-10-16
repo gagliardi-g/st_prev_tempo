@@ -2,6 +2,8 @@ import streamlit as st
 import requests
 import pandas as pd
 
+API_KEY = st.secrets['API_KEY']
+
 #Carga das cidades do brasil para o campo de select box
 df_cidades = pd.read_csv('cidades_brasil.csv')
 
