@@ -1,2 +1,2 @@
-# st_prev_tempo
-Aplicativo de previsão de tempo com Streamlit
+# Previsão de tempo
+Este projeto tem como finalidade permitir a consulta da temperatura atual de todas as cidades do Brasil, bem como a previsão do tempo para o restante do dia. O projeto foi desenvolvido com o propósito de aprimorar minha compreensão e habilidades no uso do Streamlit, além de servir como um exemplo de estudo no contexto de utilização de APIs para coleta de dados climáticos e exibição dos resultados.
