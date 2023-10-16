@@ -8,7 +8,7 @@ API_KEY = ''
 df_cidades = pd.read_csv('cidades_brasil.csv')
 
 #Título do aplicativo
-st.title('☁️ Aplicativo de Previsão do Tempo')
+st.title('☁️ Aplicativo de Previsão do Tempooo')
 
 #Criação do select box
 cidade = st.selectbox(
