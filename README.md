@@ -5,6 +5,7 @@ Link para acesso ao dashboard: https://previsaotempo.streamlit.app/
 
 # Instalação e uso
 ```bash
+# Clone do diretório
 git clone https://github.com/gagliardi-g/st_prev_tempo.git
 
 # Acesse o diretório do projeto
